@@ -1,3 +1,30 @@
 body, html {
   height: 100%;
+  margin: 0;
+}
+
+.logo {    
+  font-family: serif;
+  font-size: 50px;
+  padding: 20px;
+  font-style: italic;
+  color: palegoldenrod;
+ 
+}
+
+.buttons-container {
+  padding: 25px;
+  .buttons {
+    padding: 20px;
+    display: inline;
+    .button {
+      
+      padding: 15px;
+      font-size: 25px;
+      font-family: serif;
+      font-style: italic;
+      font-weight: bold;
+      border-radius: 10px;
+    }
+  }
 }
