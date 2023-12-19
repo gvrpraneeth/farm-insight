@@ -1,3 +1,0 @@
-# farm-insight
-# react app
-
